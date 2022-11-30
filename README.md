@@ -2,18 +2,19 @@
 Curso de Semestre agosto-diciembre 2022
 
 
+
   Semana 1
-          08/08/22: Clase inicial, presentación del curso
-          10/08/22: Clase sala de computo
+          08/08/22: Clase inicial, presentación del curso 
+          10/08/22: Clase sala de computo 
   Semana 2
-          15/08/22: Clase sala de computo
-          17/08/22:...............................................
+          15/08/22: Clase sala de computo 
+          17/08/22:............................................... 
   Semana 3
-          22/08/22:...............................................
-          24/08/22:...............................................
+          22/08/22:............................................... 
+          24/08/22:............................................... 
   Semana 4
-          29/08/22: Clase sala de computo, captura y codificación de datos
-          31/08/22: Clase sala de computo, base de datos completada
+          29/08/22: Clase sala de computo, captura y codificación de datos 
+          31/08/22: Clase sala de computo, base de datos completada 
   Semana 5
           05/09/22: Suspensión de clases
           07/09/22: Clase sala de computo
