@@ -59,7 +59,7 @@ Curso de Semestre agosto-diciembre 2022
   
           10/10/22: Clase sala de computo 
           
-          12/10/22: Examen (se fue la luz 2 veces)
+          12/10/22: Examen 1 (se fue la luz 2 veces)
           
   Semana 11
   
@@ -69,9 +69,9 @@ Curso de Semestre agosto-diciembre 2022
           
   Semana 12
   
-          24/10/22: Examen otra vez
+          24/10/22: .............
           
-          26/10/22: .............         
+          26/10/22: Examen 2       
           
   Semana 13
   
@@ -87,10 +87,13 @@ Curso de Semestre agosto-diciembre 2022
           
   Semana 15
   
-          14/11/22: aqui andamos
+          14/11/22: aqui andamos por si si hay clase
           
           16/11/22: ............
           
   Semana 16
   
           21/11/22: Receso académico segun el calendario
+          ...
+          30/11/22: Examen final
+        
